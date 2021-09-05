@@ -6,7 +6,7 @@ I am a software engineer, primarly focused on web technologies and also interest
 
 Passionate on JavaScript and PHP. Laravel, React, Angular, Node.js, ElectronJS and jQuery are my favorite frameworks so far. I have a keen interest in C#.net, Flutter, React Native, Ionic, HTML, SCSS, and Bootstrap. I am an open-source enthusiast and created jQuery Plugins and React components to contribute to the open-source world.
 
-Read more about my studies, work and contributions at [Stack Overflow Developer Story](https://stackoverflow.com/story/dipuraj) and [LinkedIn](https://www.linkedin.com/in/dipuraj). Also consider visiting my personal web page [dipu.me](http://dipu.me/) and my articles at [medium](https://medium.com/@dipuraj).
+Read more about me at [Stack Overflow Developer Story](https://stackoverflow.com/story/dipuraj) and [LinkedIn](https://www.linkedin.com/in/dipuraj). Also consider visiting my personal web page [dipu.me](http://dipu.me/) and my articles at [medium](https://medium.com/@dipuraj).
 
 <p align="center"> 
   <a title="LinkedIn" href="https://www.linkedin.com/in/dipuraj" class="social-link" target="_blank">
