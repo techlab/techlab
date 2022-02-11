@@ -2,11 +2,9 @@
   <h1 align="center"><b>Namaste :pray: Friend!</b></h1>
 </p>
 
-I am a software engineer, primarly focused on web technologies and also interested in desktop/mobile applications.
+I am a software engineer and a passionate full-stack web developer from India. I like PHP and JavaScript. React, Angular, ElectronJS, Node.js, Laravel and jQuery are my favorite frameworks. Also have hands on experiance in C#.net, Flutter, React Native, Ionic, HTML, SCSS, and Bootstrap. I am an open-source contributer and created a few jQuery Plugins and React components.
 
-Passionate on JavaScript and PHP. Laravel, React, Angular, Node.js, ElectronJS and jQuery are my favorite frameworks so far. I have a keen interest in C#.net, Flutter, React Native, Ionic, HTML, SCSS, and Bootstrap. I am an open-source enthusiast and created jQuery Plugins and React components to contribute to the open-source world.
-
-Read more about me at [Stack Overflow Developer Story](https://stackoverflow.com/story/dipuraj) and [LinkedIn](https://www.linkedin.com/in/dipuraj). Also consider visiting my personal web page [dipu.me](http://dipu.me/), my open source projects at [Tech Laboratory](http://techlaboratory.net/) and my articles at [Medium](https://medium.com/@dipuraj).
+Here is my [LinkedIn](https://www.linkedin.com/in/dipuraj) profile and personal web page [dipu.me](http://dipu.me/). Consider checking my contributions at [Tech Laboratory](http://techlaboratory.net/) and [Medium](https://medium.com/@dipuraj) articles.
 
 <p align="center"> 
   <a title="LinkedIn" href="https://www.linkedin.com/in/dipuraj" class="social-link" target="_blank">
