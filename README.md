@@ -4,7 +4,7 @@
 
 I am a software engineer and a passionate full-stack web developer from India. I like PHP and JavaScript. React, Angular, ElectronJS, Node.js, Laravel and jQuery are my favorite frameworks. Also have hands on experiance in C#.net, Flutter, React Native, Ionic, HTML, SCSS, and Bootstrap. I am an open-source contributer and created a few jQuery Plugins and React components.
 
-Here is my [LinkedIn](https://www.linkedin.com/in/dipuraj) profile and personal web page [dipu.me](http://dipu.me/). Consider checking my contributions at [Tech Laboratory](http://techlaboratory.net/) and [Medium](https://medium.com/@dipuraj) articles.
+Here is my [LinkedIn](https://www.linkedin.com/in/dipuraj) profile and [personal website](http://dipu.me/). Consider checking my contributions at [Tech Laboratory](http://techlaboratory.net/) and [Medium](https://medium.com/@dipuraj) articles.
 
 <p align="center"> 
   <a title="LinkedIn" href="https://www.linkedin.com/in/dipuraj" class="social-link" target="_blank">
